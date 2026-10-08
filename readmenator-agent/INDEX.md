@@ -1,4 +1,4 @@
 # Index
 
-| File | Purpose | Subsystem | Symbols | Used by |
-|------|---------|-----------|---------|---------|
+| File | Purpose | Subsystem | Symbols |
+|------|---------|-----------|---------|
